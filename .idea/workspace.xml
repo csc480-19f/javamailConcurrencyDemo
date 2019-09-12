@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b189010-ec3c-4e8d-b36a-58b06064c4cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSC445/ProjectTwo/src/main/java/ProjectTwo/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSC445/ProjectTwo/src/main/java/ProjectTwo/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSC445/ProjectTwo/src/main/java/ProjectTwo/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSC445/ProjectTwo/src/main/java/ProjectTwo/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSC445/ProjectTwo/src/main/java/ProjectTwo/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSC445/ProjectTwo/src/main/java/ProjectTwo/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSC445/ProjectTwoClient/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSC445/ProjectTwoClient/src/main/java/ProjectTwo/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSC445/ProjectTwoClient/src/main/java/ProjectTwo/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSC445/ProjectTwoClient/src/main/resources/collin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSC445/projectOne/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSC445/projectOne/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSC445/projectOne/src/main/java/ProjectOneServer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSC445/projectoneclient/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSC445/projectoneclient/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSC445/projectoneclient/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSC445/projectoneclient/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSC445/projectoneclient/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSC445/projectoneclient/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSC445/projectoneclient/projectoneclient.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSC445/projectoneclient/src/main/java/ProjectOneClient/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/android/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/android/default.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/android/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/android/proguard.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/android/res/drawable-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/android/res/drawable-ldpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/android/res/drawable-mdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/android/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/android/src/main/java/com/pbapp/android/AndroidLauncher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/android/src/main/java/com/pbapp/android/PBAppActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/assets/BackButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/assets/DataButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/assets/PopUp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/assets/ServerButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/assets/SheldonButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/assets/SheldonData.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/assets/SheldonLotEditedMap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/assets/SheldonMap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/assets/ShinemanButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/assets/ShinemanData.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/assets/ShinemanLotEditedMap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/assets/ShinemanMap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/assets/SuccessfulConnection.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/assets/TitleScreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/assets/emptySpace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/assets/fillSpace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/assets/libgdx-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/assets/obstructed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/assets/setTimer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/core/src/main/java/com/pbapp/core/DummyState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/core/src/main/java/com/pbapp/core/GuiStateManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/core/src/main/java/com/pbapp/core/MainMenuState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/core/src/main/java/com/pbapp/core/MapSprite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/core/src/main/java/com/pbapp/core/PBApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/core/src/main/java/com/pbapp/core/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/core/src/test/java/com/pbapp/core/GuiStateManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/core/src/test/java/com/pbapp/core/MapSpriteTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/desktop/nbactions-desktop.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/desktop/nbactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/desktop/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/desktop/src/main/java/com/pbapp/java/DesktopLauncher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/html/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/html/src/main/java/com/pbapp/PBApp.gwt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/html/src/main/java/com/pbapp/html/PBAppHtml.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/html/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/html/src/main/webapp/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/html/src/main/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/ios/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/ios/Main.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/ios/pbapp.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/ios/pbapp.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/ios/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/ios/touch-icon-57x57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pbapp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../server/nbproject/project.properties" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FetcherThreadTypeB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="526">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FetcherThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Fetcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FetcherThreadTypeB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FetcherThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="90" />
+    <option name="width" value="929" />
+    <option name="height" value="1089" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javamaildemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javamaildemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javamaildemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javamaildemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javamaildemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javamaildemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javamaildemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javamaildemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568254879233" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CSC436" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="javamailconcurrencydemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="javamailconcurrencydemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="javamailconcurrencydemo" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b189010-ec3c-4e8d-b36a-58b06064c4cd" name="Default Changelist" comment="" />
+      <created>1568129094589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568129094589</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="71" y="-7" width="1472" height="878" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13276836" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19733334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32933334" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25353107" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32933334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FetcherThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FetcherThreadTypeB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
