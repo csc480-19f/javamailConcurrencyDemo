@@ -8,15 +8,12 @@ import static java.util.stream.Collectors.toList;
 public class Main {
     public static void main(String [] args){
 
-        //uncomment for manual credentials input
-        //Scanner kb = new Scanner(System.in);
-        //System.out.println("Username?");
-        //String usr = kb.nextLine();
-        //System.out.println("Password?");
-        //String pwd = kb.nextLine();
+        Scanner kb = new Scanner(System.in);
+        System.out.println("Username?");
+        String usr = kb.nextLine();
+        System.out.println("Password?");
+        String pwd = kb.nextLine();
 
-        String usr = "csc344testacc@gmail.com";
-        String pwd = "T3st123A";
 
         Message [] msgsSeq = fetchInboxSeq(usr,pwd);
 
