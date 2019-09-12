@@ -31,10 +31,10 @@ public class FetcherThread implements Runnable{
             //Get the total number of emails in the inbox
             int totalMsgs = inbox.getMessageCount();
 
-            //Get the emails in chunks of 50 and add them to allMsgs
+            //Get the emails in chunks and add them to allMsgs
             for(;;) {
                 int i = index.getAndIncrement();
-                //The last chunk (May not be of size 50) break.
+                //The last chunk (May not be of desired chunksize) break.
                 if ((totalMsgs/chunkSize) == i && (totalMsgs%chunkSize != 0)){
                     Message [] chunk = inbox.getMessages((i*chunkSize)+1,totalMsgs);
                     for(Message m : chunk) allMsgs.add(m);
